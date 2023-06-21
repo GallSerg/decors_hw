@@ -1,0 +1,4 @@
+Time is 2023-06-21 10:14:03.191660; function_name is hello_world; params are No params; function result is Hello World
+Time is 2023-06-21 10:14:03.192712; function_name is summator; params are (2, 2); function result is 4
+Time is 2023-06-21 10:14:03.192712; function_name is div; params are (6, 2); function result is 3.0
+Time is 2023-06-21 10:14:03.192712; function_name is summator; params are (4.3,){'b': 2.2}; function result is 6.5
